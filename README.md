@@ -1,4 +1,5 @@
 # Machine Learning Coursework Showcase
+Coursework project shared for portfolio purposes. Please do not copy or reuse this work for assessed coursework.
 
 This repository contains selected machine learning implementations completed as part of a university-level ML course.
 
